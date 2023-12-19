@@ -3,7 +3,7 @@ import Registration from "./Registration";
 
 function App() {
   return (
-    <div className="App" id="gitDemoId">
+    <div className="App" id="">
       <Registration />
     </div>
   );
